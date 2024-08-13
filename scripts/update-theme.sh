@@ -5,7 +5,7 @@ git remote | grep template > /dev/null
 # If not, add the template repository
 
 if [ $? -ne 0 ]; then
-  git remote add template https://github.com/moeyua/astro-theme-typography.git
+  git remote add template https://github.com/zhangrunxi/astro-theme-typography.git
 fi
 
 # Fetch the latest changes from the template repository

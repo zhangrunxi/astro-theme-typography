@@ -15,7 +15,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   socials: [
     {
       name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/zhangrunxi/",
     },
     {
       name: "rss",

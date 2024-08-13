@@ -23,16 +23,16 @@ export const THEME_CONFIG: App.Locals['config'] = {
     },
     {
       name: "twitter",
-      href: "https://github.com/zhangrunxi/astro-theme-typography",
+      href: "https://x.com/RexZhang89",
     },
     {
       name: "mastodon",
-      href: "https://github.com/zhangrunxi/astro-theme-typography",
+      href: "https://mastodon.social/@rex_zhang",
     }
   ],
   /** your header info */
   header: {
-    twitter: "@moeyua13",
+    twitter: "@RexZhang89",
   },
   /** your navigation links */
   navs: [

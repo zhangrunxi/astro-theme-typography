@@ -1,12 +1,12 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "润心书斋",
+  title: "模型驱动",
   /** your name */
-  author: "Soothing Mind",
+  author: "Model Driven",
   /** website description */
-  desc: "Soothing Mind, ",
+  desc: "model driven, data driven, AI driven",
   /** your deployed domain */
-  website: "https://astro-theme-typography.vercel.app/",
+  website: "https://runxi.me/",
   /** your locale */
   locale: "en-us",
   /** theme style */
@@ -23,11 +23,11 @@ export const THEME_CONFIG: App.Locals['config'] = {
     },
     {
       name: "twitter",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/zhangrunxi/astro-theme-typography",
     },
     {
       name: "mastodon",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/zhangrunxi/astro-theme-typography",
     }
   ],
   /** your header info */
